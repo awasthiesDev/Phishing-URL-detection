@@ -1,4 +1,4 @@
-Here’s a complete `README.md` file for your **Phishing URL Detection System** project:
+
 
 ---
 
@@ -114,5 +114,4 @@ phishing-url-detector/
 
 ---
 
-Let me know if you'd like to customize it with your name, actual links, or add a `.gif` preview of the working app.
 ```
