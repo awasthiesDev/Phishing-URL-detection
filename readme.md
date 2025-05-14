@@ -18,13 +18,6 @@ This is a Flask-based web application that uses a machine learning model to clas
 - 🌐 RESTful API for backend communication
 ---
 
-## 📸 Demo
-
-![App Screenshot](demo.png)
-
-
----
-
 ## 🧠 How It Works
 
 The model extracts the following features from a URL:
